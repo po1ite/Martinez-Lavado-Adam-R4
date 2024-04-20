@@ -1,0 +1,21 @@
+# ninja log v5
+32	129	7323129667646729	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ac4ea0121c920548
+3	905	7323129675360826	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	89dd6b0fee8c953
+130	263	7323129668601751	C:/Users/adam7/PEC2 Martinez Adam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73183x5k/obj/arm64-v8a/libswappywrapper.so	e6a445da2da155d6
+27	611	7323129672413609	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53bcaa9d4881131b
+18	651	7323129672827611	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9b4da0193199888e
+7	742	7323129673770504	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e58e9b451c24b874
+11	589	7323129672177618	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5a0bd2456c49151d
+23	697	7323129673312571	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	20e6396754e8a425
+15	843	7323129674769495	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2f4f3cc9ea5a8442
+905	1006	7323129676097588	C:/Users/adam7/PEC2 Martinez Adam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73183x5k/obj/arm64-v8a/libgame.so	90a596627a0c32cf
+33	128	7323143147825209	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	ac4ea0121c920548
+128	254	7323143148708795	C:/Users/adam7/PEC2 Martinez Adam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73183x5k/obj/arm64-v8a/libswappywrapper.so	e6a445da2da155d6
+19	555	7323143152063043	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53bcaa9d4881131b
+11	576	7323143152286118	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	5a0bd2456c49151d
+23	628	7323143152801627	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9b4da0193199888e
+28	692	7323143153410256	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	20e6396754e8a425
+6	703	7323143153540908	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e58e9b451c24b874
+15	861	7323143155103964	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2f4f3cc9ea5a8442
+3	917	7323143155682345	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	89dd6b0fee8c953
+917	1014	7323143156374766	C:/Users/adam7/PEC2 Martinez Adam/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/73183x5k/obj/arm64-v8a/libgame.so	90a596627a0c32cf
